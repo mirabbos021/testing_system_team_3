@@ -12,5 +12,5 @@ public class User {
     private String fullName;
     private String phoneNumber;
     private String Password;
-    private Role USER;
+    private Role role = Role.USER;
 }

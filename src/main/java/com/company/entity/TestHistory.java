@@ -1,4 +1,4 @@
-package org.example.entity;
+package com.company.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -12,5 +12,5 @@ public class TestHistory {
     private int subjectId;
     private String time;
     private int quantityAnswers;
-    private int quantituCorrectAnswers;
+    private int quantityCorrectAnswers;
 }

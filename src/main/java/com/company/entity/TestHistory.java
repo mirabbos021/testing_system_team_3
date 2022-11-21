@@ -12,5 +12,5 @@ public class TestHistory {
     private int subjectId;
     private String time;
     private int quantityAnswers;
-    private int quantituCorrectAnswers;
+    private int quantityCorrectAnswers;
 }
